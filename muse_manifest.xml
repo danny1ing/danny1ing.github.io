@@ -1,0 +1,27 @@
+<manifest alg="2" build="30" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="3983832653"/>
+    <file name="index.css" crc="4011042878" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4291592202" ref="index"/>
+    <file name="jquery.tobrowserwidth.js" crc="3842421675" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="291134478" ref="index"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="elitefon.ru-24681.jpg" crc="4232741785" ref="index"/>
+    <file name="geometric-wallpaper-hd-wallpaper.png" crc="4135013963" ref="index"/>
+    <file name="0_7b61e_b176cf4a_orig.png" crc="3873517623" ref="index"/>
+    <file name="u152-5.png" crc="299964393" ref="index"/>
+    <file name="8483130.png" crc="4264852871" ref="index"/>
+    <file name="увувув.jpg" crc="304829995" ref="index"/>
+    <file name="foot-line.png" crc="106034189" ref="index"/>
+    <file name="белый.jpg" crc="319972282" ref="index"/>
+    <file name="check_mark_23x20_04svg.png" crc="4196816406" ref="index"/>
+    <file name="mathematics.png" crc="139424374" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4242620590" mt="1500201064218" redirect="true"/>
+</manifest>
